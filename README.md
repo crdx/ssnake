@@ -2,7 +2,7 @@
 
 **ssnake** is a simple snake game written in JavaScript that uses HTML5 `<canvas>`. 
 
-I wrote it *a long* time ago when the canvas tag had just appeared and I was curious how it worked. 
+I wrote it a *long* time ago when the canvas tag had just appeared and I was curious how it worked. 
 
 [You can try it here](http://crdx.github.io/ssnake). (Warning: flashing colours ahead.)
 
