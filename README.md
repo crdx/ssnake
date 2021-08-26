@@ -10,7 +10,7 @@ Disclaimer: the code reflects by no means the standard of code I write today. Un
 
 ## Bugs or contributions
 
-Open an [issue](http://github.com/crdx/ssnake/issues) or send a [pull request](http://github.com/crdx/ssnake/pulls).
+Open an [issue](https://github.com/crdx/ssnake/issues) or send a [pull request](https://github.com/crdx/ssnake/pulls).
 
 ## Licence
 
