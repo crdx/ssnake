@@ -8,7 +8,7 @@ I wrote it a *long* time ago when the canvas tag had just appeared and I was cur
 
 Disclaimer: the code reflects by no means the standard of code I write today. Unless you think it's great, in which case it definitely does.
 
-## Bugs or contributions
+## Contributions
 
 Open an [issue](https://github.com/crdx/ssnake/issues) or send a [pull request](https://github.com/crdx/ssnake/pulls).
 
